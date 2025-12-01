@@ -23,7 +23,7 @@ def ask_choice(prompt, options):
         else:
             print("Ошибка: выберите один из предложенных вариантов!")
 
-purse = Money(5000)  # можно менять сумму
+purse = Money(5000)
 HERMES_PRICE = 3000
 
 
